@@ -1,0 +1,19 @@
+.odd_count {
+    background-color: #e8b4bd;
+    font-family: Verdana, "DejaVu Sans",sans-serif;
+}
+
+#item_2 {
+    color: #00f;
+    font-size: 36px;
+}
+
+#item_3 {
+    font-size: 24px;
+}
+
+#item_4 {
+    font-size: 24px;
+    background-color: #90ee90;
+    font-weight: bold;
+}
